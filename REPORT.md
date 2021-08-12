@@ -7,7 +7,7 @@
 На тестирование затрачено: 1 час
 
 В результате тестирования выявлены следующие дефекты:
-* [Подсчёт бонусов клиентов](https://github.com/quechuloo/Java1.2task2hola/issues/1)
+* [Ошибка при подсчёте бонусов клиентов во время исполнения кода double totalBonus = regularBonus + specialBonus;](https://github.com/quechuloo/Java1.2task2hola/issues/1)
 
 
 В качестве тестовых данных использовались данные [с источника](https://github.com/netology-code/javaqa-homeworks/tree/master/programming):
