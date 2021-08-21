@@ -7,7 +7,7 @@
 На тестирование затрачено: 1 час
 
 В результате тестирования выявлены следующие дефекты:
-* [Приложение по подсчёту бонусов делает неверные расчёты](https://github.com/quechuloo/Java1.2task2hola/issues/1)
+* [Программа неправильно подсчитывает дополнительный бонус новым клиентам.](https://github.com/quechuloo/Java1.2task2hola/issues/1)
 
 
 В качестве тестовых данных использовались данные [с источника](https://github.com/netology-code/javaqa-homeworks/tree/master/programming):
